@@ -1,6 +1,6 @@
-# AVS_GitLab
+
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      # AVS_GitLab
 </p>
 
 <p align="center">
