@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://e7.pngegg.com/pngimages/31/119/png-clipart-black-cat-github-logo-repository-computer-icons-github-white-cat-like-mammal-thumbnail.png" alt="git logo" width="200">
+      <img src="https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon.png" alt="git logo" width="200">
 </p>
 
 ## About
