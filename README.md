@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git logo" width="100">
+      <img src="https://e7.pngegg.com/pngimages/697/684/png-clipart-github-black-logo-landscape-tech-companies.png" alt="git logo" width="100">
 </p>
 
 ## About
