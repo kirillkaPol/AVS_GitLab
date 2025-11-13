@@ -17,7 +17,8 @@
 
 ## Developers
 
-- **'Kirill'** 
+- *Kirill*
+- *Kirill's friends*
 
 ## License
 
