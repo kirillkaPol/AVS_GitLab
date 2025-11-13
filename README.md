@@ -1,5 +1,5 @@
 <p align="center">
-       <img src="[Project Logo Url](https://seekvectors.com/files/download/GitHUb-Logo-31.jpg)" width="200">
+       <img src="https://seekvectors.com/files/download/GitHUb-Logo-31.jpg" width="200">
 </p>
 
 ## About
