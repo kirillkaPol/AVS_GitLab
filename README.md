@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git logo">
+      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git logo" width="100">
 </p>
 
 ## About
