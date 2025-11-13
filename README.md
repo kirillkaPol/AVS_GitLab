@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="C:\Users\alexp\Downloads\pngegg.png" alt="git logo" width="200">
+      <img src="https://e7.pngegg.com/pngimages/31/119/png-clipart-black-cat-github-logo-repository-computer-icons-github-white-cat-like-mammal-thumbnail.png" alt="git logo" width="200">
 </p>
 
 ## About
