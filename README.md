@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://e7.pngegg.com/pngimages/697/684/png-clipart-github-black-logo-landscape-tech-companies.png" alt="git logo" width="100">
+      <img src=""C:\Users\alexp\Downloads\pngegg.png"" alt="git logo" width="200">
 </p>
 
 ## About
