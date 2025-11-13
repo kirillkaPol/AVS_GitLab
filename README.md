@@ -1,5 +1,5 @@
 <p align="center">
-      <img src=""C:\Users\alexp\Downloads\pngegg.png"" alt="git logo" width="200">
+      <img src="C:\Users\alexp\Downloads\pngegg.png" alt="git logo" width="200">
 </p>
 
 ## About
