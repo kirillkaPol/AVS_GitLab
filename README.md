@@ -1,12 +1,7 @@
 
 <p align="center">
-      # AVS_GitLab
-</p>
-
-<p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+      AVS_GitLab
+      <img src="" alt="Unity Version">
 </p>
 
 ## About
@@ -19,11 +14,11 @@ Documentation Here
 
 ## Distribute
 
-- [Service Name](Page Link)
+- Service Name - Page Link
 
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- Kirill 
 
 ## License
