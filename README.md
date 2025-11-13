@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon.png" alt="git logo" width="200">
+      <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/01cd9bf3-e781-4186-9441-49f4fcebd205" />
 </p>
 
 ## About
