@@ -17,7 +17,7 @@
 
 ## Developers
 
-- Kirill 
+- ** - ** **'Kirill'** 
 
 ## License
 
